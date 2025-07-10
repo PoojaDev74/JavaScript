@@ -180,11 +180,4 @@ if (storedCompScore) {
     compScore = JSON.parse(storedCompScore);
     CompScore.innerText = compScore;
 }
-// const confettiWinner = ()=>{
-//        confetti({
-//         particleCount: 1000,
-//         spread: 120,
-//         origin: { y: 0.7 },
-//         colors: ['#2E9A25', '#ff9a00', '#ff0000', '#c6ff00', '#ffffff'],
-//     });
-// }
+
