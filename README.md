@@ -55,8 +55,8 @@ rock-paper-scissors/
 │
 ├── index.html          # Main game UI
 ├── styles.css          # All styling and animations
-├── script.js           # Game logic, localStorage, DOM manipulation
-├── images             # Rock, Paper, Scissors images
+├── app.js           # Game logic, localStorage, DOM manipulation
+├── assets            # Rock, Paper, Scissors images
 ├── modal              # Rules modal and overlay
 ├── victory.html        # Hurray celebration screen
 └── README.md
