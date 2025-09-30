@@ -57,8 +57,6 @@ rock-paper-scissors/
 ├── styles.css          # All styling and animations
 ├── app.js           # Game logic, localStorage, DOM manipulation
 ├── assets            # Rock, Paper, Scissors images
-├── modal              # Rules modal and overlay
-├── victory.html        # Hurray celebration screen
 └── README.md
 ```
 ---
@@ -80,6 +78,9 @@ rock-paper-scissors/
 - Icons and assets designed manually and/or taken from royalty-free sources.
 
 ---
+
+## 🔗 Live Demo 
+(https://stone-paper-scissor-javascript.netlify.app/)
 
 ## 📬 Contact
 - Created by [Pooja Devaraj] – [poojapreethi2001@gmail.com]
