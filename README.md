@@ -39,7 +39,7 @@ A fun and interactive **Rock-Paper-Scissors** web game built using **HTML, CSS, 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone (https://github.com/yourusername/JavaScript.git)
 cd rock-paper-scissors
 ```
 
