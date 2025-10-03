@@ -49,18 +49,6 @@ No build tools needed. It's a pure frontend project.
 
 ---
 
-##  📂 Project Structure
-```bash
-rock-paper-scissors/
-│
-├── index.html          # Main game UI
-├── styles.css          # All styling and animations
-├── app.js           # Game logic, localStorage, DOM manipulation
-├── assets            # Rock, Paper, Scissors images
-└── README.md
-```
----
-
 ## 📌 Notes
 - The game automatically updates the score based on wins/losses.
 
