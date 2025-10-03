@@ -16,21 +16,12 @@ A fun and interactive **Rock-Paper-Scissors** web game built using **HTML, CSS, 
 
 ---
 
-## 📸 Screenshots
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf4c1f2d-fd12-4a2b-811f-bac1c5c86705" />-GamePlay
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64b282fc-354e-4f1c-93e3-f0a372d72d6b" />-Victory
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2d4eedc-03d1-47ab-bbfc-0e3ce77e0590" />-Rules
-
-
----
-
 ## 🧪 Tech Stack
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **LocalStorage** for persistence
+- **LocalStorage** 
 
 ---
 
@@ -51,11 +42,8 @@ No build tools needed. It's a pure frontend project.
 
 ## 📌 Notes
 - The game automatically updates the score based on wins/losses.
-
 - The "Next" button only appears when the player wins a round.
-
 - The "Rules" button is always accessible and opens a modal with a visual guide.
-
 - The victory screen includes expanding and fading circles to emphasize celebration.
 
 ---
